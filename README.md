@@ -1,1 +1,1 @@
-# inyzo-childsafety
+# inyzo-policies
