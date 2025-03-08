@@ -29,3 +29,9 @@ We work with legal authorities and organizations like the National Center for Mi
 For any concerns regarding child safety or to report a violation, please contact:
 📧 inyzo.services@gmail.com
 
+
+If you notice any inappropriate content related to child safety in Inyzo, please report it immediately by:
+- Using the **"Report Event"** button in the app.
+- Sending an email to [inyzo.services@gmail.com].
+- Visiting our help center at [https://aaganj.github.io/inyzo-policies/](https://aaganj.github.io/inyzo-policies/).
+
